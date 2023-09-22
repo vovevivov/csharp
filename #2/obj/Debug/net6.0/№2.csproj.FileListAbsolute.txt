@@ -1,0 +1,15 @@
+/Users/quilmar/Documents/курсы/c#/homework_1/№2/bin/Debug/net6.0/№2
+/Users/quilmar/Documents/курсы/c#/homework_1/№2/bin/Debug/net6.0/№2.deps.json
+/Users/quilmar/Documents/курсы/c#/homework_1/№2/bin/Debug/net6.0/№2.runtimeconfig.json
+/Users/quilmar/Documents/курсы/c#/homework_1/№2/bin/Debug/net6.0/№2.dll
+/Users/quilmar/Documents/курсы/c#/homework_1/№2/bin/Debug/net6.0/№2.pdb
+/Users/quilmar/Documents/курсы/c#/homework_1/№2/obj/Debug/net6.0/№2.csproj.AssemblyReference.cache
+/Users/quilmar/Documents/курсы/c#/homework_1/№2/obj/Debug/net6.0/№2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quilmar/Documents/курсы/c#/homework_1/№2/obj/Debug/net6.0/№2.AssemblyInfoInputs.cache
+/Users/quilmar/Documents/курсы/c#/homework_1/№2/obj/Debug/net6.0/№2.AssemblyInfo.cs
+/Users/quilmar/Documents/курсы/c#/homework_1/№2/obj/Debug/net6.0/№2.csproj.CoreCompileInputs.cache
+/Users/quilmar/Documents/курсы/c#/homework_1/№2/obj/Debug/net6.0/№2.dll
+/Users/quilmar/Documents/курсы/c#/homework_1/№2/obj/Debug/net6.0/refint/№2.dll
+/Users/quilmar/Documents/курсы/c#/homework_1/№2/obj/Debug/net6.0/№2.pdb
+/Users/quilmar/Documents/курсы/c#/homework_1/№2/obj/Debug/net6.0/№2.genruntimeconfig.cache
+/Users/quilmar/Documents/курсы/c#/homework_1/№2/obj/Debug/net6.0/ref/№2.dll
